@@ -4,7 +4,7 @@ A lightweight and customizable shell prompt designed to provide a Powerline-like
 ## Installation
 Download and run the installation script:
    ```bash
-   curl -o install_prompt.sh https://raw.githubusercontent.com/yourusername/your-repository/main/install_prompt.sh
+   curl -o install_prompt.sh https://raw.githubusercontent.com/MostafaKashwaa/powerprompt-lite/main/install_prompt.sh
    chmod +x install_prompt.sh
    ./install_prompt.sh
    ```
