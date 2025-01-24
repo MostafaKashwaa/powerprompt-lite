@@ -1,7 +1,6 @@
 #!/bin/bash
-
 # Define variables
-REPO_URL="https://github.com/MostafaKashwaa/powerprompt-lite/main"
+REPO_URL="https://raw.githubusercontent.com/MostafaKashwaa/powerprompt-lite/main"
 INSTALL_DIR="$HOME/.powerprompt"
 
 PROMPT_SCRIPT_URL="$REPO_URL/scripts/powerprompt.sh"
